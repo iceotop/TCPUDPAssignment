@@ -1,0 +1,14 @@
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\bin\Debug\net7.0\TCPUDPAssignment.exe
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\bin\Debug\net7.0\TCPUDPAssignment.deps.json
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\bin\Debug\net7.0\TCPUDPAssignment.runtimeconfig.json
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\bin\Debug\net7.0\TCPUDPAssignment.dll
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\bin\Debug\net7.0\TCPUDPAssignment.pdb
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\TCPUDPAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\TCPUDPAssignment.AssemblyInfoInputs.cache
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\TCPUDPAssignment.AssemblyInfo.cs
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\TCPUDPAssignment.csproj.CoreCompileInputs.cache
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\TCPUDPAssignment.dll
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\refint\TCPUDPAssignment.dll
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\TCPUDPAssignment.pdb
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\TCPUDPAssignment.genruntimeconfig.cache
+C:\Users\GTSA - Infinity\source\repos\TCPUDPAssignment\obj\Debug\net7.0\ref\TCPUDPAssignment.dll
