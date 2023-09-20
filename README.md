@@ -11,3 +11,11 @@
 6. Felsökning
 7. Kontaktinformation
 
+### 1. Introduktion
+Denna dokumentation tillhandahåller grundläggande information om TCP/UDP-applikationen, dess syfte och hur den används effektivt.
+
+### 2. Komma igång
+#### 2.1 Bygga koden
+Brödtextbrödtextbrödtextbrödtextbrödtextbrödtext
+#### 2.2 Konfigurera och köra applikationen
+Brödtextbrödtextbrödtextbrödtextbrödtextbrödtext
